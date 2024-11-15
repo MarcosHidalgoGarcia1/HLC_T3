@@ -1,0 +1,108 @@
+.comic-roboto-light {
+  font-family: Roboto Condensed;
+  font-weight: 350;
+    font-style: italic;
+  }
+  
+  .comic-roboto-regular {
+    font-family: Roboto Condensed;
+    font-weight: 450;
+    font-style: italic;
+  }
+  
+  .comic-roboto-bold {
+    font-family: Roboto Condensed;
+    font-weight: 750;
+    font-style: italic;
+  }
+  
+  .comic-roboto-light-italic {
+    font-family: Roboto Condensed;
+    font-weight: 350;
+    font-style: italic;
+  }
+  
+  .comic-roboto-regular-italic {
+    font-family: Roboto Condensed;
+    font-weight: 450;
+    font-style: italic;
+  }
+  
+  .comic-roboto-bold-italic {
+    font-family: Roboto Condensed;
+    font-weight: 750;
+    font-style: italic;
+  }
+header{
+    color:rgb(40, 109, 109);
+    text-align: center;
+    text-shadow: rgb(195, 185, 190) 0px 1px 5px ;
+    font-size:30px;
+    margin-bottom:100px;
+}
+body{
+    font-family: Roboto Condensed;
+    justify-content: space-around;
+    font-style:unset;
+    color: rgb(33, 109, 109);
+    font-weight: 450;
+    font-style:normal;
+    border-radius: 20px;
+    text-align: center;
+}
+input, select{
+  border-radius: 20px;
+    justify-content: space-around;
+    border: 1px solid rgb(67, 126, 106);
+    border-color: rgb(69, 136, 114);
+    padding: 5px;
+}
+.container {
+  background-color: rgb(225, 255, 255);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 350px;
+    width: 70%;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.item {
+  background-color: rgba(28, 225, 226, 0.3); 
+  width: 100px;
+  border-radius: 10px; 
+  align-items: center;
+  color: rgb(47, 105, 110);
+  font-family: Roboto Condensed;
+  font-weight: 450;
+  text-align: center;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+.item2 {
+  background-color: rgba(24, 190, 190, 0.2); 
+  width: 100px;
+  border-radius: 5px; 
+  align-items: center;
+  color: rgb(21, 130, 145);
+  font-family: Roboto Condensed;
+  font-weight: 450;
+  text-align: center;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+.item3 {
+  background-color: rgba(20, 211, 211, 0.2); 
+  width: 100px;
+  border-radius: 15px; 
+  align-items: center;
+  color: rgb(25, 111, 122);
+  font-family: Roboto Condensed;
+  font-weight: 450;
+  text-align: center;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
