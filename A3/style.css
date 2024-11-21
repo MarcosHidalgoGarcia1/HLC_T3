@@ -1,0 +1,50 @@
+header{
+    background-color: black;
+    color: rgb(247, 243, 243);
+    justify-content: space-between;
+    padding: 10px;
+    display: flex;
+  }
+ 
+  body{
+    background-color: white;
+    text-align: center;
+  }
+
+  .container{
+    display: flex;
+
+  }
+  .boostrap{
+    background-color: rgb(26, 136, 81);
+    padding: 30px;
+    color: rgb(228, 225, 225);
+  }
+
+  .Cards{
+    padding: 2%;
+  }
+
+  .card-body{
+    text-align: left;
+    margin-left: 5px;
+  }
+
+  .Contacto{
+  text-align: center;
+  padding: 1px;
+  }
+
+  .formulario{
+    text-align: left;
+    margin-left: 15px;
+    margin-right: 15px;
+  }
+
+  footer{
+    background-color: rgb(49, 49, 49);
+    color: white;
+    justify-content: center;
+    display: flex;
+    padding: 15px;
+  }
